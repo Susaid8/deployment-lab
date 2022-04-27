@@ -1,0 +1,25 @@
+.site-header_upper {
+    padding-top: 10x;
+    padding-bottom: 10px;
+}
+
+.page-width {
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 17px;
+    font-style: normal;
+    color: black;
+    line-height: 1.375;
+}
+
+:root {
+    color: brown;
+}
