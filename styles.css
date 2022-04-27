@@ -36,3 +36,15 @@ nav{
     margin-right: auto;
     width: 50%;
   }
+
+  h3{
+      color:orangered;
+  }
+
+  h2{
+      color:red;
+  }
+
+  h1{
+      color: darkred;
+  }
