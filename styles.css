@@ -25,11 +25,11 @@ a:visited{
     color: green;
 }
 
-html {
-    color: gray;
-}
-
-p{
+nav{
     text-align: center;
     line-height: 1.5;
+}
+
+img{
+    text-align: center;
 }
