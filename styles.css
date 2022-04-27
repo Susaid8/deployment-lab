@@ -1,6 +1,7 @@
 .site-header_upper {
     padding-top: 10x;
     padding-bottom: 10px;
+    text-align: center;
 }
 
 .page-width {
@@ -22,4 +23,8 @@ body {
 
 :root {
     color: brown;
+}
+
+html {
+    color: gray;
 }
