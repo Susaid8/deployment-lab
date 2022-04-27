@@ -15,12 +15,21 @@ body {
     font-style: normal;
     color: black;
     line-height: 1.375;
+    margin: 1rem;
+    padding: 1rem;
+    max-width: 2rem auto;
+    background-color: slategrey;
+}
+
+a:visited{
+    color: green;
 }
 
 html {
     color: gray;
 }
 
-p1 {
+p{
     text-align: center;
+    line-height: 1.5;
 }
