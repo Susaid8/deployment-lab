@@ -4,6 +4,10 @@
     text-align: center;
 }
 
+.grid-item {
+    text-align: center;
+}
+
 .page-width {
     margin: 0 auto;
     padding: 0 10px;
@@ -27,4 +31,8 @@ body {
 
 html {
     color: gray;
+}
+
+p1 {
+    text-align: center;
 }
